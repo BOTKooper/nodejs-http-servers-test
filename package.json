@@ -1,0 +1,19 @@
+{
+  "name": "servers-testing",
+  "version": "1.0.0",
+  "description": "## Method:  Running server, that need to listen at 3000 and send `\"Hello world\"` to `\"/\"` route.",
+  "main": "restify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BOTKooper",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "express": "^4.17.1",
+    "find-my-way": "^2.2.1",
+    "polka": "^0.5.2",
+    "restana": "^3.3.3",
+    "restify": "^8.4.0"
+  }
+}
