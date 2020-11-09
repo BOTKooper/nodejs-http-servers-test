@@ -11,7 +11,7 @@
   "dependencies": {
     "@hapi/hapi": "^19.1.1",
     "express": "^4.17.1",
-    "find-my-way": "^2.2.1",
+    "find-my-way": "^2.2.5",
     "polka": "^0.5.2",
     "restana": "^3.3.3",
     "restify": "^8.4.0"
